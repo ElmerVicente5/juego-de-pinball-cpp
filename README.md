@@ -11,7 +11,6 @@ Pinball Breakout es un emocionante juego arcade desarrollado en C++ con la libre
 - Desarrollado utilizando la librería Allegro para la gestión de gráficos y eventos.
 
 ## Capturas de Pantalla
-(Incluye aquí algunas capturas de pantalla del juego en acción)
 <img src="Capturas_del_juego/inicioJuego.png" alt="Captura de pantalla" >
 <img src="Capturas_del_juego/Ejecutando_juego.png" alt="Captura de pantalla" >
 <img src="Capturas_del_juego/jugando.png" alt="Captura de pantalla" >
